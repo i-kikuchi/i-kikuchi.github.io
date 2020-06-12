@@ -1,0 +1,168 @@
+***************************************************************************
+
+                            Call for Papers
+
+  The 9th IEEE International Conference on Grid Computing (Grid 2008)
+
+                     29 September - 1 October 2008
+                             Tsukuba, Japan
+                        http://www.grid2008.org/
+               *** Submission Deadline: 19 April 2008 ***
+***************************************************************************
+
+                             Sponsored by:
+     The IEEE Computer Society Technical Committee on Scalable Computing
+                         (final approval pending)
+
+                  =================================
+                  IEEE Grid 2008 CALL FOR PAPERS
+                  =================================
+
+Grid computing enables the sharing of distributed computing and data
+resources such as processing, networking and storage capacity to create
+a cohesive resource environment for executing distributed applications
+in e-Science and businesses. The Grid conference series is an annual
+international meeting that brings together a community of researchers,
+developers, practitioners, and user involved with Grid technology. The
+objective of the meeting is to serve as both the premier venue for
+presenting foremost research results in the area and as a forum for
+introducing and exploring new concepts. The conference will feature
+invited talks, pre-coordinated workshops and refereed paper presentations.
+Grid 2008 welcomes paper and poster submissions on innovative work from
+researchers in academia, industry and government describing original
+research work in grid computing. Previous events in this series have
+been successful in attracting high quality papers and a wide international
+participation. 
+
+Grid 2008 is hosted in the Science Park City of Tsukuba which is only
+50km away from downtown Tokyo and only 90min bus ride from Tokyo/Narita
+International Airport. Your will experience well harmonized surroundings
+of wide variety of High Technologies and nature. 
+
+ 2008 IEEE International Conference on Cluster Computing (http://www.cluster2008
+.org/) will be held on the same days and location as the Grid 2008.  CFP
+of Cluster 2008 is available at the home page..
+
+
+SCOPE
+-----
+Grid 2008 topics of interest (in no particular order) include, but  
+are not limited to:
+
+- Applications, including eScience and eBusiness Applications
+- Architectures and Fabrics
+- Autonomic and Utility Computing on Global Grids
+- Cluster and Grid Integration
+- Creation and Management of Virtual Enterprises and Organizations
+- Distributed and Large-Scale Data Access and Management
+- Grid Economy and Business Models
+- Information Services
+- Metadata, Ontologies, and Provenance
+- Middleware and Toolkits
+- Monitoring, Management and Organization Tools
+- Networking and Security
+- Performance Measurement and Modeling
+- Problem Solving Environments
+- Programming Models, Tools and Environments
+- QoS and SLA Negotiation
+- Resource Management, Scheduling, and Runtime Environments
+- Scientific, Industrial and Social Implications
+
+
+TECHNICAL PAPERS
+----------------
+Grid 2008 invites authors to submit original papers. Papers should be no
+more than 8 pages in length and be submitted as a PDF file. Submission
+implies the willingness of at least one of the authors to register and
+present the paper. A separate conference proceedings will be published
+and will also be a part of the IEEE Xplore and the CS digital library. 
+For author instructions visit www.grid2008.org. 
+
+  - PDF files only.
+  - Maximum 8 pages for Technical Papers, maximum 6 pages for Posters.
+  - Single-spaced
+  - 8.5x11-inch, Two-column numbered pages in IEEE Xplore format
+  - Format instructions are available at
+    http://www.computer.org/portal/pages/cscps/cps/cps_forms.html
+    and
+    ftp://pubftp.computer.org/Press/Outgoing/proceedings/
+  - Concerning the final camera-ready version: Maximum of 2 extra
+    pages at $100/page. Camera-ready means PDF file must comply with
+    IEEE Xplore formatting and style for publication.
+  - Electronic Submission: Only web-based submission is accepted.
+    The URL will be announced on the Grid 2008 web page.
+
+
+IMPORTANT DATES
+-----------------
+Mar. 1, 2008    Technical Paper Submission Open
+Apr.18, 2008    Technical Paper Submission Due
+Jun. 9, 2008    Paper Acceptance Notifications
+Jul.22, 2008    Poster submissions Due
+Aug.10, 2008    Poster Acceptance Notifications
+
+
+CONFERENCE ORGANIZING CHAIRS AND COMMITTEES
+-------------------------------------------
+General Chair: 
+     Satoshi Sekiguchi (AIST, Japan)
+Program Co-Chairs: 
+     Kento Aida (NII, Japan), 
+     Henri Casanova (University of Hawaii, USA)
+Program Vice Chairs: 
+  Applications
+     Daniel S. Katz (Louisiana State University, USA)
+
+  Data Management
+     Ann Chervenak (Information Sciences Institute, USA)
+
+  Knowledge Management and Semantic Grid
+     Isao Kojima (AIST, Japan)
+
+  Networking/Security/Infrastructure
+     Marty Humphrey (University of Virginia, USA)
+
+  Scheduling/Resource Management/Runtime Environments
+     Emmanuel Jeannot (INRIA, France)
+
+  Tools/Software/Middleware
+     David Abramson (Monash University, Australia)
+
+Poster Chair: 
+     Susumu Date (University of Osaka, Japan)
+
+Proceedings Chair:
+     Sornthep Vannarat (NECTEC, Thailand)
+
+International Relation Chair: 
+     Satoshi Matsuoka (Titech, Japan)
+
+Local Arrangement Chair: 
+     Hidemoto Nakada (AIST, Japan)
+
+Financial Chair: 
+     Katsuya Nishi (Beyond Computing, Japan)
+
+Publicity Chair: 
+     Hisayasu Kuroda (University of Tokyo, Japan)
+     Wolfgang Ziegler (Fraunhofer SCAI, Germany)
+     Wilfled Li (UCSD, USA)
+     Yoshio Tanaka (AIST, Japan)
+
+Conference Secretaries: 
+     Yuko Oshima (AIST, Japan)
+     Mayumi Takita(ICS Convention Design Inc., Japan)
+
+Steering Committee Chair
+     Manish Parashar (Rutgers University, USA)
+Steering Committee:
+     Rosa Badia (Barcelona Supercomputing Center, Spain)
+     Mark Baker (The University of Reading, UK)
+     Rajkumar Buyya (The University of Melbourne, Australia)
+     Dennis Gannon (Indiana University, USA)
+     Wolfgang Gentzsch (D-Grid, Germany)
+     Daniel S. Katz (Louisiana State University, USA)
+     Craig Lee, (The Aerospace Corporation, USA)
+     Heinz Stochinger, (Swiss Institute of Bioinformatics, Switzerland)
+     Warren Smith, (The University of Texas at Austin, USA)
+*********************************************************************

@@ -1,0 +1,160 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="style.css" rel="stylesheet" type="text/css">
+<title>Grid 2008</title>
+<script language="JavaScript1.2">
+function topMenuOn(tab){
+  if(document.getElementById||(document.all && !(document.getElementById))){
+    tab.style.backgroundColor="#D2D2C5";
+  }
+}
+function topMenuOut(tab){
+  if(document.getElementById||(document.all && !(document.getElementById))){
+    tab.style.backgroundColor="white";
+  }
+}
+function cOn(tab){
+  if(document.getElementById||(document.all && !(document.getElementById))){
+    tab.style.backgroundColor="#D2D2C5";
+  }
+}
+function cOut(tab){
+  if(document.getElementById||(document.all && !(document.getElementById))){
+    tab.style.backgroundColor="#AD934E";
+  }
+}
+</script>
+</head>
+
+<body class="text">
+<table width="100%" cellpadding="0" cellspacing="0">
+<tr>
+<td align="center">
+  <table width="750" cellpadding="0" cellspacing="0" bgcolor="#0F2A5F">
+  <tr><td align="center" colspan="2" style="font-size:140%"><font color="#E0E9CE">The 9th IEEE/ACM International Conference on Grid Computing (Grid 2008)</font></td></tr>
+  <tr>
+  <td align="left" width="500"><!--<img src="skylineclean.jpg">--></td>
+  <td align="center" style="font-size:110%">
+  <font color="#E0E9CE">Tsukuba, Japan<br>
+  September 29-October 1</font></td>
+  </tr>
+  <tr>
+  <td bgcolor="white" colspan="2" align="center">
+  <!--- onMouseOver="topMenuOn(this);" onMouseOut="topMenuOut(this);" --->
+    <table cellpadding="0" cellspacing="5">
+    <tr>
+    <td>
+    <span id="tab"><b><a href="/">Home</a></b></span>
+    <span id="tab"><b><a href="program.html">Program</a></b></span>
+    <span id="tab"><b><a href="registration.html">Registration</a></b></span>
+    <span id="tab"><b><a href="https://act.jtbgmt.com/gmt/ssl/cluster-grid2008.asp">Hotel</a></b></span>
+    <span id="tab"><b><a href="http://www.epochal.or.jp/eng/">About Tsukuba</a></b></span>
+    <span id="tab"><b><a href="contact.html">Contact Us</a></b></span>
+    </td>
+    </tr>
+    </table>
+  </td>
+  </tr>
+  </table>
+  <table width="750" border="0" bgcolor="#0F2D58" cellspacing="1" cellpadding="0">
+  <tr>
+  <td align="left" width="130" valign="top">
+    <table width="100%" cellspacing="0" cellpadding="3" border="0" bgcolor="#AD934E">
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="importantDates.html">Important Dates</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="cfp.html">Call for Papers</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap>&nbsp;<a href="papersubmission.html">Paper Submission</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="cfposters.html">Call for Posters</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap>&nbsp;<a href="postersubmission.html">Poster Submission</a>
+    </td></tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap>Keynotes</td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="technicalpapers.html">Technical Papers</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap>Posters</td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap>Workshops</td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="visa.html">Visa Information</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="committees.html">Committees</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="http://www.gridcomputing.org/">Grid Series</a></td>
+    </tr>
+    <tr>
+    <td onMouseOver="cOn(this);" onMouseOut="cOut(this);" nowrap><a href="http://www.cluster2008.org/">Cluster 2008</a></td>
+    </tr>
+    </table>
+  </td>
+  <td valign="top" align="left" bgcolor="white" width="100%"><table cellpadding="0" cellspacing="12" width="100%"><tr><td>
+				
+<center>
+   <h2> Workshops</h2>
+</center>
+
+Grid 2008, the flagship conference for Grid research, will host two workshops on Monday, September 29. 
+
+<br>
+<br>
+<hr>
+<H2>Usage of Service Level Agreements in Grids Workshop</H2>
+
+As Grids and service-oriented architectures evolved to a common infrastructure 
+for providing and consuming services in research and commercial environments, 
+mechanisms are needed to agree on the objectives and the quality of such service 
+provision. There is a clear trend to use electronic contracts between service 
+consumers and one or more service providers, in order to achieve the necessary 
+reliability and commitment on both sides. Service Level Agreements (SLAs) are the
+means to model and manage such contracts in a unified way.
+This workshop will provide a forum to present current research and up-to-date 
+solutions from research and business communities. The workshop considers Grids
+but also generic models for SLA management. That is, market-economic strategies,
+negotation, or monitoring are also of interest.
+<br>
+<br>
+For deadlines and other information, please visit the 
+<A href="http://www.coregrid.net/sla-workshop2008/"> workshop web page</a>.
+
+<hr>
+<br>
+<br>
+
+<FONT SIZE="+2" COLOR="red">Coming Soon</FONT>
+
+<hr>
+    </td></tr>
+    </table>
+  </td>
+  </tr>
+  <tr>
+  <td colspan="3" bgcolor="white">
+    <table cellspacing="3" cellpadding="0" width="100%">
+    <tr>
+    <td>
+    </td>
+    </tr>
+    </table> 
+  </td>
+  </tr>		
+  </table>
+</td>
+</tr>
+</table>
+</body>
+</html>
